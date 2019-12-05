@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Phone Number Spinner</string>
+    <string-array name="namePhone">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Phone</item>
+        <item>Other</item>
+    </string-array>
+</resources>
